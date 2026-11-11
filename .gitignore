@@ -1,3 +1,26 @@
+# Executáveis
+*.exe
+*.out
+*.o
+*.obj
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Compilação WebAssembly
+*.wasm
+*.js.map
+
+# Diretório de compilação
+/build/
+
+# Arquivos de IDE e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
 # Prerequisites
 *.d
 
